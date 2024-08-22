@@ -1,0 +1,15 @@
+body{
+    background-image: url(assets/img/https___cdn.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-body-1{
+    background-image: url(https://tmssl.akamaized.net/images/foto/galerie/mauro-icardi-galatasaray-1692686245-114536.jpg?lm=1692686363);
+    background-size: cover;
+}
+.card-body-2{
+    background-image: url(https://cdn.ntvspor.net/09def01eec304d6a9102728869f87627.jpg?mode=crop&w=940&h=626);
+    background-size: cover;
+    height: 50%;
+}
